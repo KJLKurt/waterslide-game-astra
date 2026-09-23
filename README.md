@@ -79,7 +79,7 @@ The web-game skill's action client is included unchanged at `scripts/web_game_pl
 
 All course geometry, swimmers, accessories, scenery, icons, music and effects were created for this project. Three.js and development dependencies retain their respective licenses. No CDN, analytics, accounts, API keys or server runtime are used. Browser storage is the only persistence. If storage is unavailable the game still runs and displays a save notice.
 
-# Codex Usage 
+# Completion data
 | Metric | Amount |
 |---|---:|
 | **Total elapsed time** | **34 min 59.892 sec** |
