@@ -80,9 +80,19 @@ The web-game skill's action client is included unchanged at `scripts/web_game_pl
 All course geometry, swimmers, accessories, scenery, icons, music and effects were created for this project. Three.js and development dependencies retain their respective licenses. No CDN, analytics, accounts, API keys or server runtime are used. Browser storage is the only persistence. If storage is unavailable the game still runs and displays a save notice.
 
 # Codex Usage 
-- Plan: Plus Plan
-- Model: GPT-6 Astra
-- Effort: Extra High
-- 12% used on weekly window
-- 82% used 5hr window
-- 35 minutes
+| Metric | Amount |
+|---|---:|
+| **Total elapsed time** | **34 min 59.892 sec** |
+| **Time to first token** | **2.653 sec** |
+| **Input tokens** | **3,719,691** |
+| └ Cached input tokens | **3,553,152** |
+| └ Uncached input tokens | **166,539** |
+| **Output tokens** | **59,945** |
+| └ Reasoning output tokens | **9,809** |
+| └ Other output tokens | **50,136** |
+| **Total tokens** | **3,779,636** |
+| Model context window | **258,400 tokens** |
+
+- Model: gpt-6-astra
+- Effort: extra high
+- Site: https://kjlkurt.github.io/waterslide-game-astra/
