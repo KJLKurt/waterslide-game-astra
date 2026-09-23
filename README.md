@@ -95,4 +95,5 @@ All course geometry, swimmers, accessories, scenery, icons, music and effects we
 
 - Model: gpt-6-astra
 - Effort: extra high
+- Cost: $8.22
 - Site: https://kjlkurt.github.io/waterslide-game-astra/
